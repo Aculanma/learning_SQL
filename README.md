@@ -28,5 +28,5 @@
 
 Курс содержит следующие модули:
 1. [Окна и функции](https://github.com/Aculanma/learning_SQL/tree/main/%D0%9E%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20SQL%20(stepik.org)/%D0%9E%D0%BA%D0%BD%D0%B0%20%D0%B8%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8) (в процессе оформления) 
-2. Фреймы  (в процессе оформления) 
+2. [Фреймы](https://github.com/Aculanma/learning_SQL/tree/main/%D0%9E%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20SQL%20(stepik.org)/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B)  (в процессе оформления) 
 3. Финал  (в процессе оформления) 
