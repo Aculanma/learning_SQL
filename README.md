@@ -39,3 +39,16 @@
 1. [Окна и функции](https://github.com/Aculanma/learning_SQL/tree/main/%D0%9E%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20SQL%20(stepik.org)/%D0%9E%D0%BA%D0%BD%D0%B0%20%D0%B8%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)  
 2. [Фреймы](https://github.com/Aculanma/learning_SQL/tree/main/%D0%9E%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20SQL%20(stepik.org)/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B)
 3. [Практика. Финансовая аналитика](https://github.com/Aculanma/learning_SQL/blob/main/%D0%9E%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20SQL%20(stepik.org)/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0.ipynb)
+
+## 3. [Симулятор SQL (Karpov.Courses)](https://karpov.courses/simulator-sql)
+
+Программа курса:
+
+Курс состоит из 2 модулей, каждый из которых покрывает важную часть работы с SQL:
+- Изучаем основы SQL - начнём подготовку к решению реальных продуктовых задач: сначала научимся писать базовые SQL-запросы, а потом перейдём к более сложным темам — узнаем, как объединять таблицы, использовать подзапросы и оконные функции. Работать будем с настоящей базой данных PostgreSQL.
+  Уроки:
+  1. Знакомство с продуктом
+  2. Базовые запросы
+
+- Решаем продуктовые задачи 
+  Уроки:
